@@ -5,3 +5,4 @@ pylint-django
 jupyter-console
 isort
 black
+pytest
