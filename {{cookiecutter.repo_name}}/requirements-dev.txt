@@ -6,3 +6,4 @@ jupyter-console
 isort
 black
 pytest
+python-lsp-server[all]

@@ -1,11 +1,13 @@
 {
-	"full_name": "Dino Livanos",
-	"email": "dino.livanos@gmail.com",
-	"github_username": "dinolivanos",
-	"project_name": "A Lot of Effort",
-	"repo_name": "alotofeffort",
-	"project_short_description": "Short project description",
-	"release_date": "2022-01-01",
-	"year": "2022",
-	"version": "0.1.0"
+
+    "full_name": "Dino Livanos",
+    "email": "dino.livanos@gmail.com",
+    "github_username": "dinolivanos",
+    "project_name": "A Lot of Effort",
+    "repo_name": "alot-of-effort",
+    "package_name": "alot_of_effort",
+    "project_short_description": "Short project description",
+    "release_date": "2022-01-01",
+    "year": "2022",
+    "version": "0.1.0"
 }

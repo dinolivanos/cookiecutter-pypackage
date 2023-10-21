@@ -30,9 +30,9 @@ setup(
     author_email="{{ cookiecutter.email }}",
     url="https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}",
     packages=[
-        "{{ cookiecutter.repo_name }}",
+        "{{ cookiecutter.package_name }}",
     ],
-    package_dir={"{{ cookiecutter.repo_name }}": "{{ cookiecutter.repo_name }}"},
+    package_dir={"{{ cookiecutter.package_name }}": "{{ cookiecutter.package_name }}"},
     include_package_data=True,
     install_requires=[],
     license="MIT",

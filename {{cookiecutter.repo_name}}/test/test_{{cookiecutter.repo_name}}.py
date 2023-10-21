@@ -2,10 +2,10 @@
 Tests for `{{ cookiecutter.repo_name }}` module.
 """
 import pytest
-from {{ cookiecutter.repo_name }} import {{ cookiecutter.repo_name }}
+from {{ cookiecutter.package_name }} import {{ cookiecutter.package_name }}
 
 
-class Test{{ cookiecutter.repo_name|capitalize }}(object):
+class Test{{ cookiecutter.package_name|capitalize }}(object):
 
     @classmethod
     def setup_class(cls):
